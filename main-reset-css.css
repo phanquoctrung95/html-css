@@ -1,0 +1,29 @@
+*{
+    margin: 0; /* loại bỏ margin mặc định */
+    padding: 0; /* loại bỏ padding mặc định */
+}
+
+.box{
+    width: 10%;
+    background-color: red;
+}
+
+.box1{
+    width: 20%;
+    background-color: green;
+}
+
+.box2{
+    width: 30%;
+    background-color: yellow;
+}
+
+.box3{
+    width: 40%;
+    background-color: orange;
+}
+
+.box4{
+    width: 50%;
+    background-color: aqua;
+}

@@ -1,0 +1,19 @@
+div p{
+    color: green;
+    font-size: 20px;
+}
+div {
+    color: aqua;
+    font-size: 50px;
+}
+
+p {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+ul li{
+    color: red;
+    background-color: blue;
+}
+
